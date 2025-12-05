@@ -73,8 +73,11 @@ translation = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 
 print(translation)
 # Output: dil-e-nā-dāñ tujhe huā kyā hai
+```
 
-👨‍💻 Author
+## 👨‍💻 Author
 Zahid Aslam
 
 BSCS Student, FAST National University (NUCES), Lahore.
+
+ 
